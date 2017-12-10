@@ -1,3 +1,5 @@
+
+
 # NoteManagerApp
 
 Farou Zakarya
@@ -19,3 +21,7 @@ I made this web app application using IntelliJ IDEA 2017.2.6 x64, in the fllowin
 10. build the project then run it
 11. open in any navigator the following link :http://localhost:8080/home
 12. enjoy the application :-)
+
+If you found problems in the configuration you can follow the pictors on the attached file Steps.zip
+
+If you find any problem contact me via my email 
